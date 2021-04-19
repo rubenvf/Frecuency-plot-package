@@ -22,3 +22,5 @@ This is a project to learn how to create Python packages and upload them to PyPi
 
 ## Insatallation
 You can install this package as usual with pip or conda.
+
+You can download the package from  [pypi.org](https://pypi.org/project/frecuency-plot/0.3/)
